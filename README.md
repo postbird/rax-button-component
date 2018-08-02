@@ -6,7 +6,13 @@
 
 运行方式：
 
-- 安装依赖：
+- 克隆项目
+
+```bash
+https://github.com/postbird/rax-button-component.git
+```
+
+- 安装依赖
 
 ```bash
 yarn intsall
