@@ -1,0 +1,41 @@
+.raxBtn {
+  padding: 15;
+  width: 200;
+  background-color: #cccccc;
+}
+.radius{
+  border-radius: 200;
+}
+
+.raxBtnText {
+  text-align: center;
+  color: #ffffff;
+}
+
+.primary {
+  background-color: #007bff;
+}
+
+.secondary {
+  background-color: #6c757d;
+}
+
+.success {
+  background-color: #28a745;
+}
+
+.danger {
+  background-color: #dc3545;
+}
+
+.info {
+  background-color: #17a2b8;
+}
+
+.warning {
+  background-color: #ffc107;
+}
+
+.default {
+  color: #000000;
+}
